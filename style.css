@@ -1,0 +1,118 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    background-color: #062315;
+}
+
+
+#educ{
+    background-color: #A9B388;
+    color: white;
+} 
+
+#work{
+    background-color: #A9B388;
+}
+
+#skill{
+    background-color: #A9B388;
+}
+
+#achievement{
+    background-color: #A9B388;
+}
+
+#other{
+    background-color: #A9B388;
+}
+
+.row{
+    background-color: #062315;
+    margin-top: 100px;
+    
+    
+}
+
+.fw-normal{
+    text-align: center;
+}
+
+.objective-para{
+    text-align: center;
+}
+
+.container
+
+.btn {
+    color: green;
+    text-align: center;
+    align-items: center;
+}
+.btn-secondary{
+    background-color: #49B265;
+    width: 390px;
+    border: 0px;
+    margin-left: 500px;
+    margin-bottom: 300px;
+}
+
+.fw-normal{
+    color: #49B265;
+    font-family: 'Roboto', sans-serif; 
+}
+.justify-content-center
+{
+    text-align: center;
+}
+
+.bg-body-tertiary{
+    background-color: blue;
+}
+
+.image-align
+{
+    margin: 20px 625px;
+}
+
+.educ-back{
+    background-color: #06373A;
+   
+}
+
+.educ-att{
+    font-family: 'Roboto', sans-serif;
+    margin-left: 35px;
+}
+
+.educ-row{
+    background-color: #06373A;
+    margin-top: 2px;
+}
+
+.nat{
+    color: white;
+}
+
+.text-body-emphasis{
+    color: #49B265 !important;
+}
+
+.b-example-divider {
+    width: 100%;
+    height: 3rem;
+    background-color: #182c25;
+    border: solid rgba(0, 0, 0, .15);
+    border-width: 1px 0;
+    box-shadow: inset 0 0.5em 1.5em rgba(0, 0, 0, .1), inset 0 0.125em 0.5em rgba(0, 0, 0, .15);
+}
+
+.year-font{
+    font-family: sans-serif;
+}
+
+.footer{
+    background-color: #49B265;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: lighter
+}
